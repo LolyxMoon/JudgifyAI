@@ -28711,7 +28711,7 @@ Defense: Sun claims tokens are not securities, disputes U.S. jurisdiction over S
                   children:
                     "© 2025 Judgify. AI-generated analysis for educational and research purposes only.",
                 }),
-              ],
+              ], 
             }),
           }),
         }),
