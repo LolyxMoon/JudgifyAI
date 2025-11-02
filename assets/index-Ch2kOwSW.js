@@ -27256,8 +27256,8 @@ const D2 = "https://dngsusgpydxastfydjiu.supabase.co",
                     variant: "ghost",
                     size: "icon",
                     onClick: () =>
-                      window.open("https://x.com/Judgify_BNB", "_blank"),
-                    "aria-label": "Follow us on X",
+                      window.open("https://x.com/JudgifyAI_bsc", "_blank"),
+                    "aria-label": "Join Community",
                     children: u.jsx(Ym, {}),
                   }),
                   u.jsxs(J, {
@@ -28701,9 +28701,9 @@ Defense: Sun claims tokens are not securities, disputes U.S. jurisdiction over S
                     variant: "ghost",
                     size: "sm",
                     onClick: () =>
-                      window.open("https://x.com/Judgify_BNB", "_blank"),
+                      window.open("https://t.me/JudgifyAI_bsc", "_blank"),
                     className: "gap-2",
-                    children: [u.jsx(Ym, {}), "Follow us on X"],
+                    children: [u.jsx(Ym, {}), "Join Community"],
                   }),
                 }),
                 u.jsx("p", {
