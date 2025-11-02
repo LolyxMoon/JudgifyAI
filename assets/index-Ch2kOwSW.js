@@ -27133,14 +27133,7 @@ const D2 = "https://dngsusgpydxastfydjiu.supabase.co",
   }),
   On = "/assets/logo-BidvXGm3.png",
   Ym = () =>
-    u.jsx("svg", {
-      viewBox: "0 0 24 24",
-      fill: "currentColor",
-      className: "h-5 w-5",
-      children: u.jsx("path", {
-        d: "M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z",
-      }),
-    }),
+    u.jsx("div", {}),
   $2 = () => {
     const e = Sr(),
       [t, n] = v.useState(null);
@@ -27329,10 +27322,10 @@ const D2 = "https://dngsusgpydxastfydjiu.supabase.co",
                       size: "lg",
                       className:
                         "text-base sm:text-lg h-12 sm:h-14 px-6 sm:px-8 w-full sm:w-auto",
-                      onClick: () => e("/analyze"),
+                      onClick: () => window.open("https://pancakeswap.finance/swap?outputCurrency=0x222975f9e24ebcedc7ba38956ef86a3989224444", "_blank"),
                       children: [
                         u.jsx(fr, { className: "mr-2 h-4 w-4 sm:h-5 sm:w-5" }),
-                        "Analyze a Case",
+                        "Buy Now",
                       ],
                     }),
                     u.jsx(J, {
@@ -27340,11 +27333,9 @@ const D2 = "https://dngsusgpydxastfydjiu.supabase.co",
                       variant: "outline",
                       className:
                         "text-base sm:text-lg h-12 sm:h-14 px-6 sm:px-8 w-full sm:w-auto",
-                      onClick: () => {
-                        e(t ? `/result/${t}` : "/analyze");
-                      },
+                      onClick: () => window.open("https://www.dextools.io/app/en/ether/pair-explorer/0x222975f9e24ebcedc7ba38956ef86a3989224444", "_blank"),
                       disabled: !t,
-                      children: "View Demo Analysis",
+                      children: "Chart",
                     }),
                   ],
                 }),
