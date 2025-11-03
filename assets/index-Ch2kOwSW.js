@@ -28692,7 +28692,7 @@ Defense: Sun claims tokens are not securities, disputes U.S. jurisdiction over S
                     variant: "ghost",
                     size: "sm",
                     onClick: () =>
-                      window.open("twitter", "_blank"),
+                      window.open("https://x.com/i/communities/1985470485333692885", "_blank"),
                     className: "gap-2",
                     children: [u.jsx(Ym, {}), "Join Community"],
                   }),
