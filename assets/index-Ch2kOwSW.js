@@ -27295,7 +27295,7 @@ const D2 = "https://dngsusgpydxastfydjiu.supabase.co",
                 u.jsx("div", {
                   className:
                     "mb-6 text-lg md:text-xl font-bold font-mono break-all",
-                  children: "CA: 0x222975f9e24ebcedc7ba38956ef86a3989224444",
+                  children: "CA: xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
                 }),
                 u.jsxs("h1", {
                   className:
@@ -27322,7 +27322,7 @@ const D2 = "https://dngsusgpydxastfydjiu.supabase.co",
                       size: "lg",
                       className:
                         "text-base sm:text-lg h-12 sm:h-14 px-6 sm:px-8 w-full sm:w-auto",
-                      onClick: () => window.open("https://pancakeswap.finance/swap?outputCurrency=0x222975f9e24ebcedc7ba38956ef86a3989224444", "_blank"),
+                      onClick: () => window.open("https://pancakeswap.finance/swap?outputCurrency=xxxxxxxxxxxxxx", "_blank"),
                       children: [
                         u.jsx(fr, { className: "mr-2 h-4 w-4 sm:h-5 sm:w-5" }),
                         "Buy Now",
@@ -27333,7 +27333,7 @@ const D2 = "https://dngsusgpydxastfydjiu.supabase.co",
                       variant: "outline",
                       className:
                         "text-base sm:text-lg h-12 sm:h-14 px-6 sm:px-8 w-full sm:w-auto",
-                      onClick: () => window.open("https://www.dextools.io/app/en/bnb/pair-explorer/0x222975f9e24ebcedc7ba38956ef86a3989224444", "_blank"),
+                      onClick: () => window.open("https://www.dextools.io/app/en/bnb/pair-explorer/xxxxxxxxxxxxxxxxxxx", "_blank"),
                       disabled: !t,
                       children: "Chart",
                     }),
@@ -28692,7 +28692,7 @@ Defense: Sun claims tokens are not securities, disputes U.S. jurisdiction over S
                     variant: "ghost",
                     size: "sm",
                     onClick: () =>
-                      window.open("https://t.me/JudgifyAI_bsc", "_blank"),
+                      window.open("twitter", "_blank"),
                     className: "gap-2",
                     children: [u.jsx(Ym, {}), "Join Community"],
                   }),
