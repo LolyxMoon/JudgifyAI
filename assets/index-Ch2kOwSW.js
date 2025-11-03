@@ -27208,12 +27208,12 @@ const D2 = "https://dngsusgpydxastfydjiu.supabase.co",
                 children: [
                   u.jsx("img", {
                     src: On,
-                    alt: "Judgify",
+                    alt: "VerdictAI",
                     className: "h-8 w-8 md:h-10 md:w-10",
                   }),
                   u.jsx("span", {
                     className: "text-xl md:text-2xl font-bold",
-                    children: "Judgify",
+                    children: "VerdictAI",
                   }),
                 ],
               }),
@@ -27249,7 +27249,7 @@ const D2 = "https://dngsusgpydxastfydjiu.supabase.co",
                     variant: "ghost",
                     size: "icon",
                     onClick: () =>
-                      window.open("https://x.com/JudgifyAI_bsc", "_blank"),
+                      window.open("https://x.com/i/communities/1985470485333692885", "_blank"),
                     "aria-label": "Join Community",
                     children: u.jsx(Ym, {}),
                   }),
@@ -27312,7 +27312,7 @@ const D2 = "https://dngsusgpydxastfydjiu.supabase.co",
                   className:
                     "text-base sm:text-lg md:text-xl lg:text-2xl text-muted-foreground mb-8 max-w-2xl mx-auto px-4",
                   children:
-                    "Judgify analyzes any case and returns a predicted verdict with grounded citations, confidence scores, and counter-arguments, powered by an evolving dataset of 200+ real cases and growing.",
+                    "VerdictAI analyzes any case and returns a predicted verdict with grounded citations, confidence scores, and counter-arguments, powered by an evolving dataset of 200+ real cases and growing.",
                 }),
                 u.jsxs("div", {
                   className:
@@ -28677,12 +28677,12 @@ Defense: Sun claims tokens are not securities, disputes U.S. jurisdiction over S
                   children: [
                     u.jsx("img", {
                       src: On,
-                      alt: "Judgify",
+                      alt: "VerdictAI",
                       className: "h-8 w-8",
                     }),
                     u.jsx("span", {
                       className: "font-bold",
-                      children: "Judgify",
+                      children: "VerdictAI",
                     }),
                   ],
                 }),
@@ -28700,7 +28700,7 @@ Defense: Sun claims tokens are not securities, disputes U.S. jurisdiction over S
                 u.jsx("p", {
                   className: "text-sm text-muted-foreground text-center",
                   children:
-                    "© 2025 Judgify. AI-generated analysis for educational and research purposes only.",
+                    "© 2025 VerdictAI. AI-generated analysis for educational and research purposes only.",
                 }),
               ], 
             }),
@@ -28902,12 +28902,12 @@ const F2 = () => {
               children: [
                 u.jsx("img", {
                   src: On,
-                  alt: "Judgify",
+                  alt: "VerdictAI",
                   className: "h-10 w-10",
                 }),
                 u.jsx("span", {
                   className: "text-2xl font-bold",
-                  children: "Judgify",
+                  children: "VerdictAI",
                 }),
               ],
             }),
@@ -29825,7 +29825,7 @@ const eA = () => {
       {
         role: "assistant",
         content:
-          "Hello! I'm Judgify AI, your legal case analysis companion. I can help you understand legal cases, discuss issues, and provide insights. How can I assist you today?",
+          "Hello! I'm VerdictAI AI, your legal case analysis companion. I can help you understand legal cases, discuss issues, and provide insights. How can I assist you today?",
       },
     ]),
     [n, r] = v.useState(""),
@@ -30037,7 +30037,7 @@ ${x}`);
               children: [
                 u.jsx("img", {
                   src: On,
-                  alt: "Judgify",
+                  alt: "VerdictAI",
                   className: "h-10 w-10",
                 }),
                 u.jsxs("div", {
@@ -30045,7 +30045,7 @@ ${x}`);
                   children: [
                     u.jsx("span", {
                       className: "text-2xl font-bold",
-                      children: "Judgify",
+                      children: "VerdictAI",
                     }),
                     u.jsx(N_, { className: "h-5 w-5 text-primary" }),
                   ],
@@ -30417,12 +30417,12 @@ const lA = () => {
                 children: [
                   u.jsx("img", {
                     src: On,
-                    alt: "Judgify",
+                    alt: "VerdictAI",
                     className: "h-10 w-10",
                   }),
                   u.jsx("span", {
                     className: "text-2xl font-bold",
-                    children: "Judgify",
+                    children: "VerdictAI",
                   }),
                 ],
               }),
@@ -30842,12 +30842,12 @@ const lA = () => {
                   children: [
                     u.jsx("img", {
                       src: On,
-                      alt: "Judgify",
+                      alt: "VerdictAI",
                       className: "h-10 w-10",
                     }),
                     u.jsx("span", {
                       className: "text-2xl font-bold",
-                      children: "Judgify",
+                      children: "VerdictAI",
                     }),
                   ],
                 }),
@@ -34552,12 +34552,12 @@ const dg = [
                 children: [
                   u.jsx("img", {
                     src: On,
-                    alt: "Judgify",
+                    alt: "VerdictAI",
                     className: "h-10 w-10",
                   }),
                   u.jsx("span", {
                     className: "text-2xl font-bold",
-                    children: "Judgify",
+                    children: "VerdictAI",
                   }),
                 ],
               }),
@@ -34820,12 +34820,12 @@ const dg = [
                 children: [
                   u.jsx("img", {
                     src: On,
-                    alt: "Judgify",
+                    alt: "VerdictAI",
                     className: "h-10 w-10",
                   }),
                   u.jsx("span", {
                     className: "text-2xl font-bold",
-                    children: "Judgify",
+                    children: "VerdictAI",
                   }),
                 ],
               }),
@@ -35156,12 +35156,12 @@ const dg = [
                 children: [
                   u.jsx("img", {
                     src: On,
-                    alt: "Judgify",
+                    alt: "VerdictAI",
                     className: "h-10 w-10",
                   }),
                   u.jsx("span", {
                     className: "text-2xl font-bold",
-                    children: "Judgify",
+                    children: "VerdictAI",
                   }),
                 ],
               }),
